@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543408759 source:c:\users\archith vk\desktop\ccode\poly.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

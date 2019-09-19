@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541169384 source:c:\users\archith vk\desktop\ccode\infix_to_postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

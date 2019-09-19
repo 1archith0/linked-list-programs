@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539358328 source:c:\users\archith vk\desktop\priorityq\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540218597 source:c:\users\archith vk\desktop\ccode\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+

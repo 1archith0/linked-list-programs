@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535680793 source:c:\users\archith vk\desktop\editorbracket.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535646319 source:c:\users\archith vk\desktop\editor_1.c
+	<stdio.h>
+	<stdlib.h>
+
